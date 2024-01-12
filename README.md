@@ -3,12 +3,12 @@ Desktop PI-STAR
 
 https://drive.google.com/drive/folders/13ZL-IY93LOd5_0Zt8m2Nn-JWhbsu0Hec?usp=sharing
 
-# J-STAR For BPiM2, BPiM2z
+# J-STAR For BPiM2
 BPiM2, 1G RAM 
 
 https://drive.google.com/drive/folders/1rdo-ubDx7-jWKAF7aBeiNfyVrr_WfYeD?usp=sharing
 
-# J-STAR For BPiM2, BPiM2z
+# J-STAR For BPiM2z
 BPiM2z, 512M RAM
 
 https://drive.google.com/drive/folders/1_vt5qpS1pQ66oB9Amj4K3XLwUU7XTZ9u?usp=sharing
