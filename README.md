@@ -1,31 +1,28 @@
-### J-STAR for Raspberry Pi 4B, 3B, ZeroW, 3A
-Desktop PI-STAR  
+### Preview
 
-https://drive.google.com/drive/folders/13ZL-IY93LOd5_0Zt8m2Nn-JWhbsu0Hec?usp=sharing
+![J-STAR-5B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/6c2848e3-2358-4f58-8617-b389dabaae58)
 
-### J-STAR For BPiM2
-BPiM2, 1G RAM 
+![J-STAR-4B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/40460f2e-4fb0-434e-bbbf-dcecc4fee71b)
 
+### J-STAR-V2-RPi5B@YLX 
+https://drive.google.com/drive/folders/1H9MXX3Cz0OwgPQ92ZpFnpFLIVNOA1DzP?usp=sharing
+
+### J-STAR-V2-RPi2W@YLX 
+https://drive.google.com/drive/folders/15Wb69Rx3OBDFT8-G9dBuKeLbOB5H4Ctq?usp=sharing
+
+### J-STAR-V2-RPi4B3B0W@YLX 
+https://drive.google.com/drive/folders/1XQA4YaSBryw9EhPxpPbsCDsx2OgiHQJe?usp=sharing
+
+### J-STAR-V2-BPiM2-1G 
 https://drive.google.com/drive/folders/1rdo-ubDx7-jWKAF7aBeiNfyVrr_WfYeD?usp=sharing
 
-### J-STAR For BPiM2z
-BPiM2z, 512M RAM
-
+### J-STAR-V2-BPiM2z-512M 
 https://drive.google.com/drive/folders/1_vt5qpS1pQ66oB9Amj4K3XLwUU7XTZ9u?usp=sharing
 
-### J-STAR for RPi5B
-Desktop PI-STAR for Raspberry Pi 5B
-
-Coming soon.
-
-### J-STAR for 2W
-Desktop PI-STAR for Raspberry Pi 2W
-
-Coming soon.
+### J-STAR-V2-X86_64@YLX
+https://drive.google.com/drive/folders/1TJbOcDoDmmUwiskdC-m2Aep7c3BGnR3N?usp=sha
 
 ### J-STAR for X86
-Desktop PI-STAR for VisualBox
-
 https://github.com/JTA-STAR/J-STAR_x86
 
 
