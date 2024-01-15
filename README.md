@@ -4,7 +4,7 @@
 
 ![J-STAR-4B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/40460f2e-4fb0-434e-bbbf-dcecc4fee71b)
 
-### J-STAR-V2-RPi5B@
+### J-STAR-V2-RPi5B
 https://drive.google.com/drive/folders/1H9MXX3Cz0OwgPQ92ZpFnpFLIVNOA1DzP?usp=sharing
 
 ### J-STAR-V2-RPi2W
