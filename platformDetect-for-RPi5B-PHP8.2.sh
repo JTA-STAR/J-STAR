@@ -118,7 +118,7 @@ elif [[ ${hardwareField} == *"sun8i"* ]]; then
 elif [[ -n ${raspberryModel} ]]; then
     #RPi 5B
     shopt -s nocasematch
-    raspberryModel="Raspberry Pi 5 Model B"
+    #raspberryModel="Raspberry Pi 5 Model B"
     if [[ $raspberryModel == *"raspberry pi 5 model b"* ]]; then
       echo "${raspberryModel} Broadcom BCM2712 2.4GHz 4-Core 64-bit ARM Cortex-A76 CPU"
     else
