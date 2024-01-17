@@ -1,3 +1,5 @@
+Subscribe update daily & weekly https://groups.io/g/J-STAR
+
 ### Preview
 
 ![J-STAR-5B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/6c2848e3-2358-4f58-8617-b389dabaae58)
