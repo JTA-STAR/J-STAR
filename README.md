@@ -1,3 +1,11 @@
+What is J-STAR ?
+A Desktop version PI-STAR, with HDMI, Remote Desktop, High efficiency software toolkit for MMDVM Project. In this project (build in Raspbian OS), you can easy to make the following interesting function work.
+MMDVM Digital mode, FM Mode, FM Netowrk,  Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf) .
+
+Also I add some very useful tools, such as: visual software manager, Pi-Apps, you can install the application you need, such as AnyDesk, just like you use Windows, MacOS convenient.
+
+More features continue to be added and improved, such as SDR++, OpenWebRX, Spectrum analysis software. In J-STAR, you can complete your MMDVM repeater, hotspot debugging and daily remote maintenance.
+
 Subscribe update daily & weekly https://groups.io/g/J-STAR
 
 ```
