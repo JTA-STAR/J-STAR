@@ -1,45 +1,104 @@
 Subscribe update daily & weekly https://groups.io/g/J-STAR
 
+```
+Project Statement, Disclaimer
+J-STAR Based on open source MMDVM, PI-STAR, WPSD. 
+This software is for use on amateur radio networks only,
+it is to be used for educational purposes only. Its use on
+commercial networks is strictly prohibited.
+```
+
+### J-STAR for RPi 5B 
+```(Ver1.5 build 2024.01.15) 
+
+Support: Raspberry Pi 5B ,4B . (NOT support 3B, 2W, ZW) 
+
+lsb_release -a
+No LSB modules are available.
+Distributor ID: Raspbian
+Description:    Raspbian GNU/Linux 12 (bookworm)
+Release:        12
+Codename:       bookworm
+https://drive.google.com/drive/folders/1H9MXX3Cz0OwgPQ92ZpFnpFLIVNOA1DzP?usp=sharing```
+
+
+### J-STAR for RPi 2W 
+```(Ver1.5 build 2024.01.15)
+lsb_release -a
+No LSB modules are available.
+Distributor ID: Raspbian
+Description:    Raspbian GNU/Linux 11 (bullseye)
+Release:        11
+Codename:       bullseye
+https://drive.google.com/drive/folders/15Wb69Rx3OBDFT8-G9dBuKeLbOB5H4Ctq?usp=sharing
+```
+
+### J-STAR for RPi4B,3B,0W 
+```(Ver2.3 build 2024.01.15)
+Support: Raspberry Pi 4B,3B, 3A,Zero . (NOT support 5B, 2W) 
+lsb_release -a
+No LSB modules are available.
+Distributor ID: Raspbian
+Description:    Raspbian GNU/Linux 10 (buster)
+Release:        10
+Codename:       buster
+https://drive.google.com/drive/folders/1XQA4YaSBryw9EhPxpPbsCDsx2OgiHQJe?usp=sharing
+```
+
+### J-STAR for BPiM2 Berry 1G 
+```(Ver2.3 build 2024.01.18)
+
+lsb_release -a
+No LSB modules are available.
+Distributor ID: Raspbian
+Description:    Raspbian GNU/Linux 10 (buster)
+Release:        10
+Codename:       buster
+
+https://drive.google.com/drive/folders/1rdo-ubDx7-jWKAF7aBeiNfyVrr_WfYeD?usp=sharing
+```
+
+### J-STAR for BPiM2z-512M 
+```(Ver2.3 build 2024.01.18)
+
+lsb_release -a
+No LSB modules are available.
+Distributor ID: Raspbian
+Description:    Raspbian GNU/Linux 10 (buster)
+Release:        10
+Codename:       buster
+
+https://drive.google.com/drive/folders/1_vt5qpS1pQ66oB9Amj4K3XLwUU7XTZ9u?usp=sharing
+```
+
+### J-STAR for X86_64 
+```(V1 Offline , V2.2 coming soon)
+
+https://drive.google.com/drive/folders/1TJbOcDoDmmUwiskdC-m2Aep7c3BGnR3N?usp=sha
+```
+
+### Join and discuss
+```
+https://www.facebook.com/groups/v3f446
+https://t.me/+HTzVv--5ZLs1YWU1
+```
+
 ### Preview
 
 ![J-STAR-5B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/6c2848e3-2358-4f58-8617-b389dabaae58)
 
 ![J-STAR-4B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/40460f2e-4fb0-434e-bbbf-dcecc4fee71b)
 
-### J-STAR for RPi5B 
-(Ver1.5 build 2024.01.15)
+### Commit the issue you meet.
+```
+Issue: https://github.com/JTA-STAR/J-STAR/issues?q=
 
-`https://drive.google.com/drive/folders/1H9MXX3Cz0OwgPQ92ZpFnpFLIVNOA1DzP?usp=sharing`
+I will fix and notifiy you the update in J-STAR Dashboard
 
-### J-STAR for RPi2W 
-(Ver1.5 build 2024.01.15)
+Subscribe to email : https://groups.io/g/J-STAR
+Subscribe to iOS :https://apps.apple.com/us/app/groups-io-app/id1553820507
+Subscribe to Android https://play.google.com/store/apps/details?id=io.groups.webapp&hl=en_US
+```
 
-`https://drive.google.com/drive/folders/15Wb69Rx3OBDFT8-G9dBuKeLbOB5H4Ctq?usp=sharing`
-
-### J-STAR for RPi4B3B0W 
-(Ver2.3 build 2024.01.15)
-
-`https://drive.google.com/drive/folders/1XQA4YaSBryw9EhPxpPbsCDsx2OgiHQJe?usp=sharing`
-
-### J-STAR for BPiM2-1G 
-(Ver2.2 build 2024.01.01)
-
-`https://drive.google.com/drive/folders/1rdo-ubDx7-jWKAF7aBeiNfyVrr_WfYeD?usp=sharing`
-
-### J-STAR for BPiM2z-512M 
-(Ver2.2 build 2024.01.01)
-
-`https://drive.google.com/drive/folders/1_vt5qpS1pQ66oB9Amj4K3XLwUU7XTZ9u?usp=sharing`
-
-### J-STAR for X86_64 
-(V1 Offline , V2.2 coming soon)
-
-`https://drive.google.com/drive/folders/1TJbOcDoDmmUwiskdC-m2Aep7c3BGnR3N?usp=sha`
-
-### Contact me
-`https://www.facebook.com/groups/v3f446`
-
-`https://t.me/+HTzVv--5ZLs1YWU1`
-
-
+73!
 
