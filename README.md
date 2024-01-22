@@ -1,6 +1,6 @@
 What is J-STAR ?
 A Desktop version PI-STAR, with HDMI, Remote Desktop, High efficiency software toolkit for MMDVM Project. In this project (build in Raspbian OS), you can easy to make the following interesting functions work.
-`MMDVM Digital mode, FM Mode, FM Netowrk,  Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf ,and so on`
+`MMDVM Digital mode, FM Mode, FM Netowrk,  Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf) ,and so on`
 
 Also I add some very useful tools, such as: visual software manager, Pi-Apps, you can install the application you need, such as AnyDesk, just like you use Windows, MacOS convenient.
 
@@ -16,9 +16,9 @@ J-STAR Based on open source MMDVM, PI-STAR, WPSD.
 This software is for use on amateur radio networks only, it is to be used for educational purposes only. Its use on commercial networks is strictly prohibited.
 ```
 
-### J-STAR for RPi 5B 
+### J-STAR for Raspberry Pi 5B 
 ```(Ver1.5 build 2024.01.15) 
-
+Lite Preview Edition, the purpose is to adapt Raspberry Pi 5B.  NOT including `Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf)`
 Support: Raspberry Pi 5B ,4B . (NOT support 3B, 2W, ZW) 
 
 lsb_release -a
@@ -30,8 +30,10 @@ Codename:       bookworm
 https://drive.google.com/drive/folders/1H9MXX3Cz0OwgPQ92ZpFnpFLIVNOA1DzP?usp=sharing```
 
 
-### J-STAR for RPi 2W 
+### J-STAR for Raspberry Pi 2W 
 ```(Ver1.5 build 2024.01.15)
+Lite Preview Edition, the purpose is to adapt Raspberry Pi 5B.  NOT including `Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf)`
+
 lsb_release -a
 No LSB modules are available.
 Distributor ID: Raspbian
@@ -41,7 +43,7 @@ Codename:       bullseye
 https://drive.google.com/drive/folders/15Wb69Rx3OBDFT8-G9dBuKeLbOB5H4Ctq?usp=sharing
 ```
 
-### J-STAR for RPi4B,3B,0W 
+### J-STAR for Raspberry Pi 4B,3B,0W 
 ```(Ver2.3 build 2024.01.15)
 Support: Raspberry Pi 4B,3B, 3A,Zero . (NOT support 5B, 2W) 
 lsb_release -a
@@ -53,7 +55,7 @@ Codename:       buster
 https://drive.google.com/drive/folders/1XQA4YaSBryw9EhPxpPbsCDsx2OgiHQJe?usp=sharing
 ```
 
-### J-STAR for BPiM2 Berry 1G 
+### J-STAR for BPiM2 Berry (BananaPi) 1G 
 ```(Ver2.3 build 2024.01.18)
 
 lsb_release -a
@@ -66,7 +68,7 @@ Codename:       buster
 https://drive.google.com/drive/folders/1rdo-ubDx7-jWKAF7aBeiNfyVrr_WfYeD?usp=sharing
 ```
 
-### J-STAR for BPiM2z-512M 
+### J-STAR for BPiM2Z  (BananaPi) 512M 
 ```(Ver2.3 build 2024.01.18)
 
 lsb_release -a
