@@ -17,8 +17,8 @@ This software is for use on amateur radio networks only, it is to be used for ed
 ```
 
 ### J-STAR for Raspberry Pi 5B 
-```(Ver1.5 build 2024.01.15) 
 Lite Preview Edition, the purpose is to adapt Raspberry Pi 5B.  NOT including `Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf)`
+```(Ver1.5 build 2024.01.15) 
 Support: Raspberry Pi 5B ,4B . (NOT support 3B, 2W, ZW) 
 
 lsb_release -a
@@ -30,9 +30,9 @@ Codename:       bookworm
 https://drive.google.com/drive/folders/1H9MXX3Cz0OwgPQ92ZpFnpFLIVNOA1DzP?usp=sharing```
 
 
-### J-STAR for Raspberry Pi 2W 
-```(Ver1.5 build 2024.01.15)
+### J-STAR for Raspberry Pi 2W
 Lite Preview Edition, the purpose is to adapt Raspberry Pi 5B.  NOT including `Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf)`
+```(Ver1.5 build 2024.01.15)
 
 lsb_release -a
 No LSB modules are available.
