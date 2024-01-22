@@ -1,11 +1,9 @@
 Subscribe update daily & weekly https://groups.io/g/J-STAR
 
 ```
-Project Statement, Disclaimer
+Project Statement, Disclaimer:
 J-STAR Based on open source MMDVM, PI-STAR, WPSD. 
-This software is for use on amateur radio networks only,
-it is to be used for educational purposes only. Its use on
-commercial networks is strictly prohibited.
+This software is for use on amateur radio networks only, it is to be used for educational purposes only. Its use on commercial networks is strictly prohibited.
 ```
 
 ### J-STAR for RPi 5B 
