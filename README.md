@@ -92,8 +92,8 @@ https://drive.google.com/drive/folders/1TJbOcDoDmmUwiskdC-m2Aep7c3BGnR3N?usp=sha
 
 ### Join and discuss
 ```
-https://www.facebook.com/groups/v3f446
-https://t.me/+HTzVv--5ZLs1YWU1
+https://www.facebook.com/groups/v3f446 (Facebook)
+https://t.me/+HTzVv--5ZLs1YWU1 (Telegram)
 ```
 
 ### Preview
@@ -110,7 +110,7 @@ I will fix and notifiy you the update in J-STAR Dashboard
 
 Subscribe to email : https://groups.io/g/J-STAR
 Subscribe to iOS :https://apps.apple.com/us/app/groups-io-app/id1553820507
-Subscribe to Android https://play.google.com/store/apps/details?id=io.groups.webapp&hl=en_US
+Subscribe to Android https://play.google.com/store/apps/details?id=io.groups.webapp 
 ```
 
 73!
