@@ -94,7 +94,8 @@ Release:	11
 Codename:	bullseye
 
 Requirement: 
-VirtualBox 6.1+ ，macOS10.13.6+ , Windows 10+，64bit（Not support Win7）,VMWare, EXSi Need export from VirtualBox yourself.
+VirtualBox 6.1+ ，macOS10.13.6+ , Windows 10+，64bit（Not support Win7）.
+If need VMWare, EXSi use, you need export from VirtualBox yourself.
 
 https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sharing
 ```
