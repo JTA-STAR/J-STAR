@@ -84,7 +84,7 @@ Codename:       buster
 https://drive.google.com/drive/folders/1_vt5qpS1pQ66oB9Amj4K3XLwUU7XTZ9u?usp=sharing
 ```
 
-### J-STAR for X86_64 
+### J-STAR for X86_64 VirtualBox
 ```
 lsb_release -a
 No LSB modules are available.
@@ -92,6 +92,9 @@ Distributor ID:	Debian
 Description:	Debian GNU/Linux 11 (bullseye)
 Release:	11
 Codename:	bullseye
+
+Requirement: 
+VirtualBox 6.1+ ，macOS10.13.6+ , Windows 10+，64bit（Not support Win7）,VMWare, EXSi Need export from VirtualBox yourself.
 
 https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sharing
 ```
