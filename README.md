@@ -85,9 +85,15 @@ https://drive.google.com/drive/folders/1_vt5qpS1pQ66oB9Amj4K3XLwUU7XTZ9u?usp=sha
 ```
 
 ### J-STAR for X86_64 
-```(V1 Offline , V2.2 coming soon)
+```
+lsb_release -a
+No LSB modules are available.
+Distributor ID:	Debian
+Description:	Debian GNU/Linux 11 (bullseye)
+Release:	11
+Codename:	bullseye
 
-https://drive.google.com/drive/folders/1TJbOcDoDmmUwiskdC-m2Aep7c3BGnR3N?usp=sha
+https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sharing
 ```
 
 ### Join and discuss
