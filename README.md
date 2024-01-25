@@ -18,6 +18,18 @@ This software is for use on amateur radio networks only, it is to be used for ed
 Its use on commercial networks is strictly prohibited.
 ```
 
+### J-STAR for Raspberry Pi 4B,3B,0W 
+```(Ver2.3 build 2024.01.15)
+Support: Raspberry Pi 4B,3B, 3A,Zero . (NOT support 5B, 2W) 
+lsb_release -a
+No LSB modules are available.
+Distributor ID: Raspbian
+Description:    Raspbian GNU/Linux 10 (buster)
+Release:        10
+Codename:       buster
+https://drive.google.com/drive/folders/1XQA4YaSBryw9EhPxpPbsCDsx2OgiHQJe?usp=sharing
+```
+
 ### J-STAR for Raspberry Pi 5B 
 ```(Ver1.5 build 2024.01.15)
 Lite Preview Edition, the purpose is to adapt Raspberry Pi 5B.  NOT including  Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf)
@@ -46,17 +58,6 @@ Codename:       bullseye
 https://drive.google.com/drive/folders/15Wb69Rx3OBDFT8-G9dBuKeLbOB5H4Ctq?usp=sharing
 ```
 
-### J-STAR for Raspberry Pi 4B,3B,0W 
-```(Ver2.3 build 2024.01.15)
-Support: Raspberry Pi 4B,3B, 3A,Zero . (NOT support 5B, 2W) 
-lsb_release -a
-No LSB modules are available.
-Distributor ID: Raspbian
-Description:    Raspbian GNU/Linux 10 (buster)
-Release:        10
-Codename:       buster
-https://drive.google.com/drive/folders/1XQA4YaSBryw9EhPxpPbsCDsx2OgiHQJe?usp=sharing
-```
 
 ### J-STAR for BPiM2 Berry (BananaPi) 1G 
 ```(Ver2.3 build 2024.01.18)
