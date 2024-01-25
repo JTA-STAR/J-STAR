@@ -22,7 +22,7 @@ Its use on commercial networks is strictly prohibited.
 ```(Ver1.5 build 2024.01.15)
 Lite Preview Edition, the purpose is to adapt Raspberry Pi 5B.  NOT including  Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf)
 
-Support: Raspberry Pi 5B ,4B . (NOT support 3B, 2W, ZW) 
+Support: Raspberry Pi 5B , (NOT support 3B, 2W, ZW, In RPi 4B, the /dev/ttyAMA0 not detect) 
 
 lsb_release -a
 No LSB modules are available.
@@ -35,7 +35,7 @@ https://drive.google.com/drive/folders/1H9MXX3Cz0OwgPQ92ZpFnpFLIVNOA1DzP?usp=sha
 
 ### J-STAR for Raspberry Pi 2W
 ```(Ver1.5 build 2024.01.15)
-Lite Preview Edition, the purpose is to adapt Raspberry Pi 5B.  NOT including Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf)
+Lite Preview Edition, the purpose is to adapt Raspberry Pi 2W.  NOT including Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf)
 
 lsb_release -a
 No LSB modules are available.
