@@ -18,7 +18,7 @@ This software is for use on amateur radio networks only, it is to be used for ed
 Its use on commercial networks is strictly prohibited.
 ```
 
-### J-STAR for Raspberry Pi 4B,3B,0W 
+### J-STAR for Raspberry Pi 4B,3B, 3A+, 0W 
 ```(Ver2.3 build 2024.01.15)
 Support: Raspberry Pi 4B,3B, 3A,Zero . (NOT support 5B, 2W) 
 lsb_release -a
