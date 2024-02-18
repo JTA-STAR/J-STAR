@@ -1,0 +1,18 @@
+[submodule "J-STAR_Dash"]
+	path = J-STAR_Dash
+	url = https://github.com/bi7jta/W0CHP-PiStar-Dash_BPiM2.git
+[submodule "J-STAR_sbin"]
+	path = J-STAR_sbin
+	url = https://github.com/bi7jta/W0CHP-PiStar-sbin_BPiM2.git
+[submodule "J-STAR_bin_RPi4B"]
+	path = J-STAR_bin_RPi4B
+	url = https://github.com/bi7jta/BI7JTA-PiStar-bin_RPi4B.git
+[submodule "J-STAR_bin_BPiM2"]
+	path = J-STAR_bin_BPiM2
+	url = https://github.com/bi7jta/W0CHP-PiStar-bin_BPiM2.git
+[submodule "J-STAR_CustomBinaries-Source"]
+	path = J-STAR_CustomBinaries-Source
+	url = https://github.com/bi7jta/W0CHP-CustomBinaries-Source_BPiM2.git
+[submodule "J-STAR_X86-64"]
+	path = J-STAR_X86-64
+	url = https://github.com/bi7jta/Lin-Star-ALL-VisualBox.git
