@@ -33,6 +33,10 @@ Codename:       buster
 https://drive.google.com/drive/folders/1XQA4YaSBryw9EhPxpPbsCDsx2OgiHQJe?usp=sharing
 ```
 
+![J-STAR-4B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/be8b4bfd-76e4-411f-8753-8e3bf7127395)
+
+
+
 ### J-STAR for Raspberry Pi 5B 
 ```(Ver1.5 build 2024.01.15)
 Lite Preview Edition, the purpose is to adapt Raspberry Pi 5B.  NOT including  Alistarlink, DVSwitch, Sip, Analog_reflector, USRP Client, APRS(Direwolf)
@@ -45,7 +49,10 @@ Distributor ID: Raspbian
 Description:    Raspbian GNU/Linux 12 (bookworm)
 Release:        12
 Codename:       bookworm
-https://drive.google.com/drive/folders/1H9MXX3Cz0OwgPQ92ZpFnpFLIVNOA1DzP?usp=sharing```
+https://drive.google.com/drive/folders/1H9MXX3Cz0OwgPQ92ZpFnpFLIVNOA1DzP?usp=sharing
+```
+
+![J-STAR-5B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/8df26148-74a2-4450-afc6-64e2886c99e8)
 
 
 ### J-STAR for Raspberry Pi 2W
