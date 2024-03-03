@@ -111,6 +111,10 @@ If need VMWare, EXSi use, you need export from VirtualBox yourself.
 https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sharing
 ```
 
+![J-STAR_with_FreeDMR_X86_64_VisualBox](https://github.com/JTA-STAR/J-STAR/assets/22002824/e4038d96-b519-4332-a1db-1332e891560b)
+
+
+
 ### Join and discuss
 ```
 https://www.facebook.com/groups/v3f446 (Facebook)
