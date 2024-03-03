@@ -121,12 +121,6 @@ https://www.facebook.com/groups/v3f446 (Facebook)
 https://t.me/+HTzVv--5ZLs1YWU1 (Telegram)
 ```
 
-### Preview
-
-![J-STAR-5B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/6c2848e3-2358-4f58-8617-b389dabaae58)
-
-![J-STAR-4B-wallpaper](https://github.com/JTA-STAR/J-STAR/assets/22002824/40460f2e-4fb0-434e-bbbf-dcecc4fee71b)
-
 ### Commit the issue you meet.
 ```
 Issue: https://github.com/JTA-STAR/J-STAR/issues?q=
