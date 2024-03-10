@@ -11,6 +11,8 @@ Why J ? My callsign including the J.
 
 Subscribe update daily & weekly https://groups.io/g/J-STAR
 
+Wiki for J-STAR `https://github.com/JTA-STAR/J-STAR/wiki/J%E2%80%90STAR-wiki`
+
 ```
 Project Statement, Disclaimer:
 J-STAR Based on open source MMDVM, PI-STAR, WPSD. 
