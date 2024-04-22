@@ -116,6 +116,12 @@ https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sha
 ![J-STAR_with_FreeDMR_X86_64_VisualBox](https://github.com/JTA-STAR/J-STAR/assets/22002824/e4038d96-b519-4332-a1db-1332e891560b)
 
 
+### J-Star_X86_64_v2.3 for ESXi VMWare
+The same version as J-STAR for X86_64 VirtualBox
+
+Know problem : the Desktop lost after import from VisualBox ova format.
+
+`https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sharing`
 
 ### Join and discuss
 ```
