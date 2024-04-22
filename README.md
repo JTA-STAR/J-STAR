@@ -123,8 +123,7 @@ Known issue : the Desktop lost after import from VisualBox ova format.
 
 ![J-Star-ESXi](https://github.com/JTA-STAR/J-STAR/assets/22002824/0c4f0955-b5a7-461b-9850-e7d49a57ac8f)
 
-
-`https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sharing`
+https://drive.google.com/drive/folders/1BnHPFANjHg4MRVng_pohUFwegnvgzWRO?usp=drive_link
 
 ### Join and discuss
 ```
