@@ -121,6 +121,9 @@ The same version as J-STAR for X86_64 VirtualBox
 
 Known problem : the Desktop lost after import from VisualBox ova format.
 
+![J-Star-ESXi](https://github.com/JTA-STAR/J-STAR/assets/22002824/0c4f0955-b5a7-461b-9850-e7d49a57ac8f)
+
+
 `https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sharing`
 
 ### Join and discuss
