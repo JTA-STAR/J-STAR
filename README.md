@@ -119,7 +119,7 @@ https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sha
 ### J-Star_X86_64_v2.3 for ESXi VMWare
 The same version as J-STAR for X86_64 VirtualBox
 
-Know problem : the Desktop lost after import from VisualBox ova format.
+Known problem : the Desktop lost after import from VisualBox ova format.
 
 `https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sharing`
 
