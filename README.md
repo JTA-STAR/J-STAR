@@ -141,6 +141,7 @@ Subscribe to email : https://groups.io/g/J-STAR
 Subscribe to iOS :https://apps.apple.com/us/app/groups-io-app/id1553820507
 Subscribe to Android https://play.google.com/store/apps/details?id=io.groups.webapp 
 ```
+[Donate J-STAR for more support](https://paypal.me/yanglixia?country.x=C2&locale.x=en_US) 
 
-73!
+VY 73 DE BI7JTA
 
