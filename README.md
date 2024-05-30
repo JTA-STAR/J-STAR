@@ -97,7 +97,7 @@ Codename:       buster
 https://drive.google.com/drive/folders/1_vt5qpS1pQ66oB9Amj4K3XLwUU7XTZ9u?usp=sharing
 ```
 
-### J-STAR for X86_64 VirtualBox
+### J-STAR for X86_64 VirtualBox (PVE: unzip the ova file , import to PVE)
 ```
 lsb_release -a
 No LSB modules are available.
