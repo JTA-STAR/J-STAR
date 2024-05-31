@@ -22,6 +22,24 @@ Its use on commercial networks is strictly prohibited.
 
 ![J-STAR-4B-HDMI0](https://github.com/JTA-STAR/J-STAR/assets/22002824/4f23f81b-37c9-46ff-b720-bf25e5f27183)
 
+### Ready to flash. 
+![image](https://github.com/JTA-STAR/J-STAR/assets/22002824/4713db4a-17a7-4066-9a8b-fd8598e72c1f)
+
+```
+ Tool 1: balenaEtcher for macOS ,Windows , Not need format before flash.
+ Download https://etcher.balena.io/
+ 
+ Tool 2: Win32 disk image Writer for Windows (Need format SD Card before flash)
+ 
+ SDFormatter: https://www.bi7jta.org/files/PiStarTools/SDFormatterv4.zip
+ Win32 disk image Writer: https://www.bi7jta.org/files/PiStarTools/win32diskimager-1.0.0-install.zip
+```
+
+### After flash and boot.
+change the update server and update to the new version.
+
+![image](https://github.com/JTA-STAR/J-STAR/assets/22002824/9a1380da-5e98-4306-9b9d-2e20c8d7f02b)
+
 
 ### J-STAR for Raspberry Pi 4B,3B, 3A+, 0W 
 ```(Ver2.3 build 2024.01.15)
@@ -98,6 +116,9 @@ https://drive.google.com/drive/folders/1_vt5qpS1pQ66oB9Amj4K3XLwUU7XTZ9u?usp=sha
 ```
 
 ### J-STAR for X86_64 VirtualBox (PVE: unzip the ova file , import to PVE)
+
+![image](https://github.com/JTA-STAR/J-STAR/assets/22002824/0501b031-e87c-49df-a6f1-05c419c8ad99)
+
 ```
 lsb_release -a
 No LSB modules are available.
